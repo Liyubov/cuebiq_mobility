@@ -1,2 +1,2 @@
-# cuebiq_mobility
-Mobility analysis and data visualisation
+# cuebiq mobility analysis
+Mobility analysis and data visualisation.
